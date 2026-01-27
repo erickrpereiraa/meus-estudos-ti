@@ -10,10 +10,10 @@ Repositório com exercícios práticos desenvolvidos durante meus estudos de Ban
 
 ##  Exercícios disponíveis
 
-- **Exercício – Sistema de Livraria**  
+- **Exercício – Sistema de Livraria:** 
   Criação de tabela e consultas simulando o cadastro de livros.
 
-- **Exercício – Cadastro de Produtos**  
+- **Exercício – Cadastro de Produtos:** 
   Criação de tabela de produtos e consultas com filtros.
 
 ##  Objetivo
