@@ -5,10 +5,10 @@ Estudante de Ciência da Computação com interesse em **Segurança da Informaç
 Este repositório contém meus estudos, exercícios e projetos desenvolvidos durante minha formação na área de Tecnologia.
 
 ##  Áreas de estudo
-- Lógica de Programação
+- Lógica de Programação e Algoritmos
 - Fundamentos de Computação
-- Segurança da Informação
-- Banco de Dados (em aprendizado)
+- Estrutura de Dados
+- Banco de Dados
 
 ##  Objetivo
 Utilizar este espaço para acompanhar minha evolução na área de TI e compartilhar projetos práticos.
